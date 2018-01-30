@@ -1,0 +1,19 @@
+{
+  "name": "w2",
+  "version": "1.0.0",
+  "description": "lab 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snorock/COMP308-W2018-L2.git"
+  },
+  "author": "Igor B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snorock/COMP308-W2018-L2/issues"
+  },
+  "homepage": "https://github.com/Snorock/COMP308-W2018-L2#readme"
+}
