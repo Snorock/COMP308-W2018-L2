@@ -4,7 +4,7 @@
   "private": true,
   "description": "Lab 2",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
