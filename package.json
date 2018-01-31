@@ -10,10 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/Snorock/COMP308-W2018-L2.git"
   },
+  "engines": {
+    "npm": ">=5.6.0",
+    "node": ">=9.4.0"
+  },
   "author": "Igor B",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Snorock/COMP308-W2018-L2/issues"
   },
-  "homepage": "https://github.com/Snorock/COMP308-W2018-L2#readme"
+  "homepage": "https://github.com/Snorock/COMP308-W2018-L2#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.11.0",
+    "@types/node": "^9.4.0"
+  }
 }
